@@ -1,4 +1,4 @@
-Peer-reviews
+Peer reviews
 ============
 
 A presentation about peer reviews.
