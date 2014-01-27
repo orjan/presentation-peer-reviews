@@ -1,1 +1,16 @@
-["index.md"]
+[
+    "index.md",
+    "processes.md",
+    [
+        "formal-code-review.md",
+        "pair-programming.md",
+        "over-the-shoulder.md",
+        "email-pass-around.md"
+    ],
+    "tooling-support.md",
+    [
+    	"github-pr.md",
+    	"gerrit.md",
+    	"tfs-2013.md"
+    ]
+]
