@@ -9,8 +9,8 @@
     ],
     "tooling-support.md",
     [
-    	"github-pr.md",
-    	"gerrit.md",
-    	"tfs-2013.md"
+        "github-pr.md",
+        "gerrit.md",
+        "tfs-2013.md"
     ]
 ]
