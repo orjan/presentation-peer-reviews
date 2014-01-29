@@ -1,5 +1,10 @@
 [
     "index.md",
+    [
+        "introduction.md",
+        "why.md",
+        "friction.md"
+    ],
     "processes.md",
     [
         "formal-code-review.md",
