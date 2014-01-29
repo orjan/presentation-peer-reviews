@@ -1,10 +1,9 @@
 ## Why should we care
 
-* Bug are expensive
+* Early discovery of bugs are cheaper than bugs in production
 * Knowledge sharing
-* Maintainability
-* Unclear features, is this what the customer needs?
-* Communication Team/Client
+* Maintainability 
+* Communication Team/Client, is this what the client needs?
 
 note:
     As a developer I'm responsible for deliver stories as soon as possible.
