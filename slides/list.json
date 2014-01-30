@@ -8,9 +8,9 @@
         "email-pass-around.md"
     ],
     "tooling-support.md",
-    [
-        "github-pr.md",
+    [        
         "gerrit.md",
+        "github-pr.md",
         "tfs-2013.md"
     ]
 ]
