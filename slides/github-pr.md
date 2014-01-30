@@ -1,3 +1,3 @@
 ##  GitHub PR
 
-This is a new Markdown slide
+<img src="img/pull-request.png" width="800px" />

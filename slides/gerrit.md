@@ -1,3 +1,4 @@
 ##  Gerrit
 
-This is a new Markdown slide
+<img src="img/gerrit.png" width="800px" />
+
